@@ -1,4 +1,4 @@
 FROM almalinux:9
 LABEL Course = "docker"\
       trainer = "shiva kumar"\
-      author = "jion devops"
+      author = "join devops"
